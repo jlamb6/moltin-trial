@@ -14,6 +14,7 @@
     "@moltin/react-shopkit": "^2.0.0",
     "@moltin/sdk": "^3.19.0",
     "bootstrap": "^4.3.1",
+    "dotenv": "^7.0.0",
     "jquery": "^3.4.0",
     "next": "^8.0.4",
     "popper.js": "^1.15.0",
