@@ -11,15 +11,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/catalog": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/collections": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/next/dist/pages/_error": [
+    "/home": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

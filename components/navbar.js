@@ -47,7 +47,10 @@ const Navbar = (props) => (
                 border-bottom: 2px solid transparent;
             }
             .nav-item.active {
-                border-bottom: 2px solid #efefef;
+                border-bottom: 2px solid #f52968;
+            }
+            .nav-item.active a {
+                color: #f52968;
             }
             .dropdown-menu {
                 border-top-left-radius: 0;
